@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Avinash61160
 - 👀 I’m interested in new tech 
 - 🌱 I’m currently learning ML and DL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Avivhankalas45@gmail.com
 
 <!---
